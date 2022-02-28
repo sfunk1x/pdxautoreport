@@ -1,0 +1,534 @@
+{
+  "status": "success",
+  "items": [
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    },
+    {
+      "address_input_value_x": 1234567.123,
+      "address_input_value_y": 123456.123,
+      "date_created": "08/25/21 11:55AM",
+      "text_input_value": "Sample text value here",
+      "date_updated": "08/25/21 11:55AM",
+      "files": [
+        {
+          "id": 123456,
+          "file_name": "Screenshot_20210823-162628.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "status": "Open",
+      "status_input_value": null,
+      "address_input_value_lon": -122.66710468955714,
+      "category": "Abandoned Auto",
+      "address_input_value_lat": 45.50511099196088,
+      "id": 1234567,
+      "address_input_value_wmx": -12345678.123456789,
+      "address_input_value_wmy": 1234567.123456789,
+      "address_input_value": null
+    }
+  ]
+}
