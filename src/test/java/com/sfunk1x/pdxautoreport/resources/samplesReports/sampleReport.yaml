@@ -1,0 +1,14 @@
+reportType: reportType
+reportingFrequency: daily
+latitude: latitude
+longitude: longitude
+reportPhoto: pathToImage.png
+message:
+  legalName: Legal Name
+  telephoneNumber: 123-456-7890
+  closestAddress: closest address
+  vehicleMake: GM
+  vehicleColor: White
+  vehicleBodyStyle: Fullsize truck
+  vehicleLicensePlate: None
+  vehicleDescription: Missing windshield, was towed into place

@@ -1,0 +1,19 @@
+{
+  "phone_num": "000-000-0001",
+  "created_date": "July, 25 2005 12:32:28",
+  "fax_num": "000-000-0002",
+  "middle_initial": "A",
+  "zipcode": 97201,
+  "loginvalid": true,
+  "state": "OR",
+  "user_name": "pdxReportUserName",
+  "email": "useremail@somedomain.com",
+  "last_name": "Last",
+  "first_name": "First",
+  "status": "success",
+  "city": "Portland",
+  "address": "50 NW Everett St",
+  "updated_date": "June, 16 2021 14:05:12",
+  "contact_id": 123456,
+  "mobile_num": "000-000-0003"
+}

@@ -1,11 +1,13 @@
-### Java Spring template project
+# PDX Autoreport
 
-This project is based on a GitLab [Project Template](https://docs.gitlab.com/ee/gitlab-basics/create-project.html).
+This batch application consumes a YAML report and submits the information to pdxreporter.org.
 
-Improvements can be proposed in the [original project](https://gitlab.com/gitlab-org/project-templates/spring).
+### Requirements
 
-### CI/CD with Auto DevOps
+* Java 11 runtime environment installed
+* Functioning account on [pdxreporter](https://pdxreporter.org).
 
-This template is compatible with [Auto DevOps](https://docs.gitlab.com/ee/topics/autodevops/).
+### Usage
 
-If Auto DevOps is not already enabled for this project, you can [turn it on](https://docs.gitlab.com/ee/topics/autodevops/#enabling-auto-devops) in the project settings.
+TBD - currently the only way to execute the code is by configuring the IDE to execute with a reports.yaml file. I will file tickets to track work to implement the maven package plugin, then provide jar packages on Github/Gitlab for users to leverage.
+
